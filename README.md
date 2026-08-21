@@ -42,6 +42,10 @@
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
         </a>
       </p>
+      <br/>
+      <div align="right">
+        <img src="./assets/qr/who-is-the-chameleon-qr.png" width="210" height="230" alt="Who is the Chameleon QR Code"/>
+      </div>
     </td>
   </tr>
 </table>
